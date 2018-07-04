@@ -1,0 +1,3 @@
+[submodule "rerename"]
+	path = rerename
+	url = https://github.com/yeze322/rerename.git
